@@ -1,2 +1,2 @@
 # hello-world
-此存储库用于联系GitHub
+此存储库用于练习GitHub流程
